@@ -7,7 +7,7 @@
     "start": "node src/app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kieran Richards",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
